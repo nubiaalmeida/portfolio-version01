@@ -1,4 +1,4 @@
-## Portfolio: Núbia Almeida
+## Tema para Portfólio
 ### Versão 1 do meu portfólio utilizando o GitHub Pages.
 
 Para usar:
